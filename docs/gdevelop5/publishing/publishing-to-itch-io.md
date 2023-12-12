@@ -1,5 +1,5 @@
 ---
-title: Publish to Itch.io
+ti: Publish to Itch.io
 ---
 
 ## What is itch.io?
